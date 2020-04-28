@@ -1,10 +1,10 @@
-package com.milosz.calculate;
+package com.milosz.calculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CalculateApplicationTests {
+class CalculatorApplicationTests {
 
 	@Test
 	void contextLoads() {
